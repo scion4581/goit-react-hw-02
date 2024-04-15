@@ -1,0 +1,13 @@
+.optionsButtons {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.optionsButtons button:hover {
+    cursor: pointer;
+}
+
+.resetOptionsButton.hideOptionsButton {
+    display: none;
+}
